@@ -18,6 +18,7 @@ public class Utils {
     }
 
     public static boolean isValidHour(int hour) {
+
         if (hour < 0 || hour > 24) {
             return false;
         }

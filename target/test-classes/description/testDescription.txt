@@ -1,0 +1,27 @@
+test Nigth:
+dada la hora de las 5
+que es despues de las 0 y menor a 6
+se espera que se muestre un mensaje diciendo es de nigth ("noche"):
+
+test Morning:
+dada la hora de las 10
+que es despues de las 6 y menor a 12
+se espera que se muestre un mensaje diciendo es de morning ("mañana"):
+
+test Afternoon:
+dada la hora de las 17
+que es despues de las 12 y menor a 18
+se espera que se muestre un mensaje diciendo es de afternoon ("tarde"):
+
+test Evening:
+dada la hora de las 22
+que es despues de las 18
+se espera que se muestre un mensaje diciendo es de evening ("amanecer"):
+
+test InvalidHour:
+dada la hora de las 32
+que es despues de las 24
+se espera que se muestre un mensaje diciendo la hora ingresada sobrepasa las 24 horas es una hora invalida ("hora Invalida"):
+
+
+
